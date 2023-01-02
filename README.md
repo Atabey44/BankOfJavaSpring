@@ -6,6 +6,7 @@
   ### -> Spring Data JPA
   ### -> Hibernate
   ### -> RestAPI
+  ### -> Junit Test
   ### -> Swagger
   ### -> PostgreSQL
  
